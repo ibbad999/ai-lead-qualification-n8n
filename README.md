@@ -6,7 +6,7 @@ The goal is to reduce manual lead processing and help businesses respond faster 
 
 ---
 
-** What It Does
+ What It Does
 
 The workflow receives a lead through a webhook and uses Gemini to analyze the submitted message.
 
@@ -44,7 +44,7 @@ Gmail Draft
 
 ```
 
-## 🧠 AI Classification
+##  AI Classification
 
 Gemini analyzes each incoming lead message and returns a structured JSON response:
 
